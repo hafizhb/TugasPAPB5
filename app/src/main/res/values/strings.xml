@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TugasPAPB5</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_pertambahan">Pertambahan</string>
+    <string name="title_pengurangan">Pengurangan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result">Hasil</string>
+    <string name="calculate">Hitung!</string>
+    <string name="bilsatu">Bilangan Pertama</string>
+    <string name="bildua">Bilangan Kedua</string>
+    <string name="judul">Volume</string>
+    <string name="pengurangan">Pengurangan</string>
+    <string name="pertambahan">Pertambahan</string>
+</resources>
